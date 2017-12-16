@@ -55,5 +55,5 @@ namespace WebAddressbookTests
                 footer = value;
             }
         }
-    }
+}
 }
